@@ -22,6 +22,7 @@ import javax.swing.JProgressBar;
  * @author jprod
  */
 public class Lista extends Thread{
+    //José Daniel
     private ArrayList<String> personas=new ArrayList<String>();
     JProgressBar pb;
 
